@@ -23,13 +23,11 @@ node_modules/
 tmp/
 temp/
 hooks/
-platforms/
+*platforms/
 plugins/
 plugins/android.json
 plugins/ios.json
 $RECYCLE.BIN/
-
-ionic.log
 
 .DS_Store
 Thumbs.db
