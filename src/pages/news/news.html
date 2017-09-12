@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle icon-only>
+      <ion-icon name='menu'></ion-icon>
+    </button>
+    <ion-title>
+      News
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card>
+    <ion-card-header>
+      뉴스
+    </ion-card-header>
+    <button ion-item *ngFor="let news of newsList">
+      <ion-icon name="clipboard" item-left></ion-icon>
+      {{news.subject}}
+    </button>
+  </ion-card>
+</ion-content>
