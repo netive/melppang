@@ -1,5 +1,4 @@
-# Ionic Conference Application
-
+# 맬방 프로토타입 소스
 This is purely a demo of Ionic with TypeScript. It is still in development.
 
 
