@@ -80,7 +80,7 @@ All app preview screenshots were taken by running `ionic serve --lab` on a retin
 ## File Structure of App
 
 ```
-ionic-conference-app/
+melppang/
 ├-- .github/                            * GitHub files
 │   ├── CONTRIBUTING.md                 * Documentation on contributing to this repo
 │   └── ISSUE_TEMPLATE.md               * Template used to populate issues in this repo
@@ -205,4 +205,4 @@ ionic-conference-app/
 ├── tsconfig.json                       * Defines the root files and the compiler options
 ├── tslint.json                         * Defines the rules for the TypeScript linter
 ```
-# dailyCommit
+# Git 공부도 하셔야 합니다.
